@@ -5,7 +5,6 @@
 
 ```{r, echo = FALSE}
 # echo = FALSE suppresses the output of this block
-library(rv2)
 ```
 
 # The central limit theorem
